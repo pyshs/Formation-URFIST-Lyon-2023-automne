@@ -1,4 +1,4 @@
-# Introuction à l'analyse de données avec Python #DataAnalytics #datascience
+# Introduction à l'analyse de données avec Python #DataAnalytics #datascience
 
 Lien vers le site de l'URFIST : https://sygefor.reseau-urfist.fr/#/training/8972/12323?from=true 
 
